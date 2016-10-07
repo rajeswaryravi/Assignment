@@ -1,0 +1,23 @@
+a{
+	text-decoration: none;
+}
+.app header{
+	background: #00bcd4;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 36px;
+	color: #c52bd7;
+	font-weight: bold;
+}
+.show{
+	border: 2px solid #000;
+}
+.dispaly ul li img{
+	width: 50px;
+	height: 50px;
+	margin-top: 6px;
+}
+.home_back a{
+ font-size: 28px !important;;
+ color: #9c27b0;
+}
